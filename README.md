@@ -12,7 +12,7 @@
 ------
 
 
-[![GitHub forks](https://img.shields.io/github/forks/Gojo-Bots/Gojo_Satoru?style=social)](https://github.com/Gojo-Bots/Gojo_Satoru/fork)
+[![GitHub forks](https://img.shields.io/github/forks/Gojo-Bots/Gojo_Satoru?style=social)](https://github.com/akagamikaizoku/esdeath/fork)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Gojo-Bots/Gojo_Satoru?style=social)
 
 ![Repo Size](https://img.shields.io/github/repo-size/Gojo-Bots/Gojo_Satoru?&style=social&logo=github)
