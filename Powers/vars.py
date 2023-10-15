@@ -60,22 +60,22 @@ class Development:
 
     # Fill in these vars if you want to use Traditional method of deploying
     LOGGER = True
-    BOT_TOKEN = "YOUR BOT_TOKEN"
-    API_ID = 12345  # Your APP_ID from Telegram
-    API_HASH = "YOUR API HASH"  # Your APP_HASH from Telegram
+    BOT_TOKEN = "6663040181:AAEdRPMg1h8CaImyX5Wf8ERWNdUg8y97S-k"
+    API_ID = 29722120  # Your APP_ID from Telegram
+    API_HASH = "91f3bf8651edfa748856cfcad07f55bb" #Your api hash from Telegram
     OWNER_ID = 1983471689  # Your telegram user id defult to mine
     MESSAGE_DUMP = -1001829052958 # Your Private Group ID for logs
-    DEV_USERS = []
-    SUDO_USERS = []
-    WHITELIST_USERS = []
-    DB_URI = ""  # Your mongo DB URI
-    DB_NAME = ""  # Your DB name
+    DEV_USERS = [1983471689]
+    SUDO_USERS = [1983471689]
+    WHITELIST_USERS = [1983471689]
+    DB_URI = "mongodb+srv://helloyeager8:dSaini9485@cluster0.bhqp2fq.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"  # Your mongo DB URI
+    DB_NAME = "esdeath"  # Your DB name
     NO_LOAD = []
     GENIUS_API_TOKEN = ""
     RMBG_API = ""
-    PREFIX_HANDLER = ["!", "/","$"]
-    SUPPORT_GROUP = "SUPPORT_GROUP"
-    SUPPORT_CHANNEL = "SUPPORT_CHANNEL"
+    PREFIX_HANDLER = ["!", "/", "$", "."]
+    SUPPORT_GROUP = "chatdiscussion17"
+    SUPPORT_CHANNEL = "esdeath_xb"
     VERSION = "VERSION"
     TIME_ZONE = 'Asia/Kolkata'
     BDB_URI = ""
